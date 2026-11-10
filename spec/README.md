@@ -74,7 +74,7 @@ parameters:                  # Individual parameter definitions
   <param_name>:
     description: "..."
     type: float/int/str
-    units: "BJD"
+    units: "HJD"
     category: core/binary_lens/parallax/...
     constraints:
       positive: true
